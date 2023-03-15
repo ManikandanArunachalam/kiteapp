@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kiteapp/static/css/main.073c9b0a.css",
+    "main.js": "/kiteapp/static/js/main.5c52e2e2.js",
+    "static/js/787.707a00c8.chunk.js": "/kiteapp/static/js/787.707a00c8.chunk.js",
+    "static/media/logo.svg": "/kiteapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kiteapp/index.html",
+    "main.073c9b0a.css.map": "/kiteapp/static/css/main.073c9b0a.css.map",
+    "main.5c52e2e2.js.map": "/kiteapp/static/js/main.5c52e2e2.js.map",
+    "787.707a00c8.chunk.js.map": "/kiteapp/static/js/787.707a00c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5c52e2e2.js"
+  ]
+}
